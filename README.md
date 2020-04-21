@@ -1,3 +1,2 @@
 # git_test
-
-This is some sample text added
+This is RyanAmeri's first git project
